@@ -1,6 +1,13 @@
 {
    "baseURL": "//natevw.com/",
-   "languageCode": "en-us",
    "title": "natevw's website",
-   "theme": "homespun"
+   "copyright": "Copyright © 2019 Nathan Vander Wilt.",
+   "languageCode": "en-us",
+   "theme": "homespun",
+   "disableHugoGeneratorInject": true,
+   "disableKinds": ["RSS", "sitemap"],
+   "taxonomies": {
+      "tag": null,
+      "category": null
+   }
 }
