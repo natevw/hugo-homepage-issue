@@ -6,8 +6,5 @@
    "theme": "homespun",
    "disableHugoGeneratorInject": true,
    "disableKinds": ["RSS", "sitemap"],
-   "taxonomies": {
-      "tag": null,
-      "category": null
-   }
+   "taxonomies": {}
 }
